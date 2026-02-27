@@ -1,0 +1,62 @@
+name: jQuery
+description: jQuery is a fast, small, and feature-rich JavaScript library that makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+image: https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png
+url: https://jquery.com
+created: '2024'
+modified: '2024'
+tags:
+- JavaScript
+- Library
+- DOM Manipulation
+- AJAX
+- Front-end
+apis:
+- name: jQuery CDN API
+  description: Content Delivery Network endpoints for serving jQuery library files
+  baseURL: https://code.jquery.com
+  humanURL: https://code.jquery.com
+  properties:
+  - type: Documentation
+    url: https://jquery.com/download/
+  - type: CDN
+    url: https://code.jquery.com/jquery-3.7.1.min.js
+  tags:
+  - CDN
+  - JavaScript
+  - Library
+- name: jQuery Core API
+  description: The core jQuery API for DOM manipulation, event handling, and AJAX
+  humanURL: https://api.jquery.com
+  properties:
+  - type: Documentation
+    url: https://api.jquery.com
+  - type: Getting Started
+    url: https://learn.jquery.com
+  - type: API Reference
+    url: https://api.jquery.com/category/all/
+  tags:
+  - JavaScript
+  - DOM
+  - Events
+  - AJAX
+maintainers:
+- name: jQuery Foundation
+  email: info@jquery.com
+  url: https://jquery.org
+common:
+- type: Website
+  url: https://jquery.com
+- type: GitHub
+  url: https://github.com/jquery/jquery
+- type: Blog
+  url: https://blog.jquery.com
+- type: Twitter
+  url: https://twitter.com/jquery
+- type: License
+  url: https://github.com/jquery/jquery/blob/main/LICENSE.txt
+- type: npm
+  url: https://www.npmjs.com/package/jquery
+- type: Contributing
+  url: https://contribute.jquery.org
+- type: Forum
+  url: https://forum.jquery.com
