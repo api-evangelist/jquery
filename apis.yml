@@ -8,11 +8,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - AJAX
+  - DOM Manipulation
+  - Front-End
   - JavaScript
   - Library
-  - DOM Manipulation
-  - AJAX
-  - Front-end
 url: https://raw.githubusercontent.com/api-evangelist/jquery/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-03-16'
@@ -25,10 +25,10 @@ apis:
       other JavaScript utilities.
     humanURL: https://api.jquery.com
     tags:
-      - JavaScript
+      - AJAX
       - DOM
       - Events
-      - AJAX
+      - JavaScript
     properties:
       - type: Documentation
         url: https://api.jquery.com
