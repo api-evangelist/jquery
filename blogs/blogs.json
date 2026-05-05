@@ -1,0 +1,13 @@
+{
+  "repo": "jquery",
+  "feeds": [
+    {
+      "source": "https://blog.jquery.com",
+      "feed_url": "https://blog.jquery.com/feed/",
+      "saved": 10,
+      "title": "Official jQuery Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:30:01Z"
+}
