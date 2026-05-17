@@ -35,7 +35,7 @@ apis:
     properties:
       - type: Documentation
         url: https://api.jquery.com
-      - type: Getting Started
+      - type: GettingStarted
         url: https://learn.jquery.com
       - type: Reference
         url: https://api.jquery.com/category/all/
@@ -63,7 +63,7 @@ common:
     url: https://api.jquery.com
   - type: Blog
     url: https://blog.jquery.com
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/jquery
   - type: Source Code
     url: https://github.com/jquery/jquery
