@@ -2,12 +2,20 @@
   "repo": "jquery",
   "feeds": [
     {
-      "source": "https://blog.jquery.com",
+      "source": "https://blog.jquery.com/feed/",
       "feed_url": "https://blog.jquery.com/feed/",
-      "title": "Official jQuery Blog",
-      "saved": 9
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://api.jquery.com",
+      "feed_url": "https://api.jquery.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
   "post_count": 19,
-  "fetched": "2026-05-17T20:20:35Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }
