@@ -57,6 +57,8 @@ apis:
       - type: CDN
         url: https://code.jquery.com/jquery-4.0.0.min.js
 common:
+  - type: DomainSecurity
+    url: security/jquery-domain-security.yml
   - type: Website
     url: https://jquery.com
   - type: Documentation
