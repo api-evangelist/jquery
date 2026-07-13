@@ -9,6 +9,13 @@
       "method": "feed"
     },
     {
+      "source": "https://api.jquery.com/feed/",
+      "feed_url": "https://api.jquery.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://api.jquery.com",
       "feed_url": "https://api.jquery.com/feed/",
       "title": "",
@@ -16,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 19,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 29,
+  "fetched": "2026-07-11T11:50:51Z"
 }
