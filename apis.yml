@@ -8,7 +8,19 @@ description: >-
   compliant. jQuery 4.0 is the current release; jQuery 3.x receives critical
   updates only.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jquery.png
 tags:
   - AJAX
   - DOM Manipulation
