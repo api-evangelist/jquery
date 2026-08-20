@@ -24,6 +24,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jquery.png
 tags:
   - AJAX
   - DOM Manipulation
+  - Frontend
+  - JavaScript
+  - Library
+tags_raw:
+  - AJAX
+  - DOM Manipulation
   - Front-End
   - JavaScript
   - Library
@@ -40,6 +46,11 @@ apis:
       and events for working with the DOM in a cross-browser way.
     humanURL: https://api.jquery.com
     tags:
+      - AJAX
+      - DOM
+      - Event
+      - JavaScript
+    tags_raw:
       - AJAX
       - DOM
       - Events
