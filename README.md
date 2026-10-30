@@ -1,4 +1,4 @@
-# jQuery (jquery)
+# jQuery
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,71 +66,103 @@
 
 jQuery is a fast, small, and feature-rich JavaScript library that makes HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. Only about 30kB minified and gzipped, available as an AMD module, and CSS3 compliant. jQuery 4.0 is the current release; jQuery 3.x receives critical updates only.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/jquery/refs/heads/main/apis.yml)
+**Areas:** AJAX · DOM Manipulation · Frontend · JavaScript · Library
 
-## Scope
+## jQuery on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for jQuery is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jquery/](https://apis.io/providers/jquery/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (2)
 
- - JavaScript, Library, DOM Manipulation, AJAX, Front-End
+- [jQuery Core API](https://apis.io/apis/jquery/jquery-core-api/) — The core jQuery API for DOM manipulation, event handling, AJAX, effects, animation, and other JavaScript utilities. Documents selectors, methods, and events…
+- [jQuery CDN](https://apis.io/apis/jquery/jquery-cdn/) — Content Delivery Network endpoints for serving jQuery and related plugin library files (jQuery, jQuery UI, jQuery Mobile, QUnit, Color, PEP) over HTTPS for…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-01-01 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### jQuery Core API
-The core jQuery API for DOM manipulation, event handling, AJAX, effects, animation, and other JavaScript utilities. Documents selectors, methods, and events for working with the DOM in a cross-browser way.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://api.jquery.com](https://api.jquery.com)
+- [Jquery Domain Security](https://apis.io/security/jquery/jquery-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - JavaScript, DOM, Events, AJAX
+- [Jquery Plans Pricing](https://apis.io/plans/jquery/jquery-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://api.jquery.com)
-- [Getting Started](https://learn.jquery.com)
-- [Reference](https://api.jquery.com/category/all/)
+Published request limits.
 
-### jQuery CDN
-Content Delivery Network endpoints for serving jQuery and related plugin library files (jQuery, jQuery UI, jQuery Mobile, QUnit, Color, PEP) over HTTPS for direct inclusion in web pages.
+- [Jquery Rate Limits](https://apis.io/rate-limits/jquery/jquery-rate-limits/)
 
-**Human URL:** [https://code.jquery.com](https://code.jquery.com)
+#### FinOps (1)
 
+What the API costs to run, by operation.
 
-#### Tags:
+- [Jquery Finops](https://apis.io/finops/jquery/jquery-finops/)
 
- - CDN, JavaScript, Library
+## Where to find this API
 
-#### Properties
-
-- [Documentation](https://jquery.com/download/)
-- [CDN](https://code.jquery.com/jquery-4.0.0.min.js)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://jquery.com)
 - [Documentation](https://api.jquery.com)
 - [Blog](https://blog.jquery.com)
-- [GitHub Organization](https://github.com/jquery)
-- [Source Code](https://github.com/jquery/jquery)
-- [License](https://github.com/jquery/jquery/blob/main/LICENSE.txt)
-- [Issues](https://github.com/jquery/jquery/issues)
-- [NPM](https://www.npmjs.com/package/jquery)
-- [Contributing](https://contribute.jquery.org)
-- [Community](https://forum.jquery.com)
+- [GitHub](https://github.com/jquery)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 13.4** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/jquery/](https://apis.io/providers/jquery/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for jQuery: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jquery/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
